@@ -6,6 +6,9 @@
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+
 
 ### Frameworks & Libraries
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)

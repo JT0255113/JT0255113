@@ -3,6 +3,9 @@
 ## Technical Skills
 
 
+![Alt text](https://camo.githubusercontent.com/your-image-url-here)
+
+
 ### Programming Languages
 ![Java](https://img.shields.io/badge/-Java-blue?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
